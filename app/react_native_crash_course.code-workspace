@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../demo/aora/assets"
+		},
+		{
+			"path": "../../demo/aora/constants"
+		}
+	],
+	"settings": {}
+}
